@@ -20,10 +20,15 @@ The contact book program is a Python-based application designed to manage a list
 #### Key features of the contact book code include:
 
 1 Add Contact: Users can add new contacts by entering the name, phone number, email, and address.
+
 2 View Contact List: A complete list of all saved contacts is displayed, showing names and phone numbers for easy access.
+
 3 Search Contact: Users can search for a specific contact by either name or phone number.
+
 4 Update Contact: Existing contact details can be updated, such as changing phone numbers or email addresses.
+
 5 Delete Contact: Unwanted contacts can be deleted from the system.
+
 6 User-Friendly Interface: The program offers a clear, command-line interface that makes it simple for users to interact with the contact book.
 
 This project introduces key programming concepts like CRUD (Create, Read, Update, Delete) operations, data storage using dictionaries, and input validation, making it an excellent learning experience for Python beginners. Additionally, it is a useful tool for managing contact information in a structured manner.
